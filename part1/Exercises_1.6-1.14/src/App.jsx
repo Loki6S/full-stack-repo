@@ -10,6 +10,7 @@ const StatisticLine = (props) => (
   </tr>
 );
 
+
 const Statistics = (props) => {
   return (
     <table>
